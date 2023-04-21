@@ -1,2 +1,2 @@
 # backend de AppHospital
-# Demenos siempre correr np run start:dev
+# Dedemos siempre correr np run start:dev
